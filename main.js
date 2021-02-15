@@ -16,7 +16,7 @@ let rl = Readline.createInterface(process.stdin, process.stdout)
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6281515860089'] // Put your number here
+global.owner = ['62881036804098'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -24,7 +24,7 @@ global.APIs = { // API Prefix
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = { // 8fe4e7f5-3387-4c73-8728-8bc35c3f6b38
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'test'
 }
